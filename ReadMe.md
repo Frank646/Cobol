@@ -1,4 +1,4 @@
-This is the current progress of me learning the 64 year old programming language COBOL. I have been learning this from Peggy Fisher many regards go out to her and the linkedin learning material she provides regarding COBOL. You'll see through the programs the evolution of the learning and how the skills improve.
+This is the current progress of me learning the 64 year old programming language COBOL. I have been learning this from Peggy Fisher many regards go out to her and the learning material she provides regarding COBOL. You'll see through the programs the evolution of the learning and how the skills improve.
 
 HelloWorld(CBL)
 
