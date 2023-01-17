@@ -99,7 +99,7 @@
 
 
         9000-END-PROGRAM.
-      *Ends program and displayes the current count of employees.
+      *Ends program and displays the current count of employees.
             CLOSE EMPLOYEEFILE, PAYROLL.
             DISPLAY "Number of employees processed: ", WS-EMPLOYEE-COUNT.
             STOP RUN.

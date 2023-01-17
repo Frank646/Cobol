@@ -18,3 +18,7 @@ SalesCommissionReport(CBL)
 
 SimulatedCashRegister(CBL)
 TBA
+
+ProcessPayroll(CBL)
+
+This program is a payroll program It reads data from an input file called "EMPFILE.DAT", processes the data, and writes the processed data to an output file called "PAYROLLIN.DAT". The program reads employee data from the input file, and for each employee, it calculates their pay by multiplying their hours worked by their hourly rate, and then adding a 3% tax. It then writes the employee's ID, name, calculated pay, and department to the output file. The program also keeps track of the number of employees processed and displays this count at the end of the program before stopping.
